@@ -1,5 +1,11 @@
 This lib provide ability to create migrations for Sqlite database with EF Core 3.0
 
+# Install
+[Nuget](https://www.nuget.org/packages/EntityFrameworkCore.Sqlite.Migrations/1.0.0)
+```
+PM > Install-Package EntityFrameworkCore.Sqlite.Migrations
+```
+
 # Problem 
 
  - You want update Sqlite database schema with migrations.
