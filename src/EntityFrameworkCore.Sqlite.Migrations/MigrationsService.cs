@@ -10,7 +10,6 @@ namespace EntityFrameworkCore.Sqlite.Migrations
     public class MigrationsService
     {
         private DbContextOptions _dbContextOptions;
-        private string _listOfMigrationsFilePath;
 
         public MigrationsService(DbContextOptions dbContextOptions)
         {

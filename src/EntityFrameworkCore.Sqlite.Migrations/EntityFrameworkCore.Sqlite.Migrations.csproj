@@ -6,6 +6,15 @@
     <LangVersion>8.0</LangVersion>
     <ApplicationIcon />
     <StartupObject />
+    <Company>Pocolab</Company>
+    <Authors>Ivan Chensky</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>Ivan Chensky</Copyright>
+    <PackageLicenseUrl>https://github.com/ichensky/EntityFrameworkCore.Sqlite.Migrations/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/ichensky/EntityFrameworkCore.Sqlite.Migrations</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ichensky/EntityFrameworkCore.Sqlite.Migrations</RepositoryUrl>
+    <PackageReleaseNotes />
+    <Description>Lib provide ability to create migrations for Sqlite database with EF Core 3.0</Description>
   </PropertyGroup>
 
   <ItemGroup>

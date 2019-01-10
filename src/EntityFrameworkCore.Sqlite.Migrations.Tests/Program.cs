@@ -8,7 +8,7 @@ namespace EntityFrameworkCore.Sqlite.Migrations.Tests
     {
         static async Task Main(string[] args)
         {
-            // Path to database file
+            // Path to the database file
             var dbPath = @"..\..\..\..\..\data\test.db";
             
             // Path to the file that contains list of files with migrations
