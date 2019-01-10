@@ -1,0 +1,6 @@
+.
+├── migrations
+│   ├── add table `Cat`.sql
+│   ├── add table `User`.sql
+│   └── init db.sql
+└── migrations.txt

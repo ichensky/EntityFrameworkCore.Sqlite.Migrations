@@ -1,0 +1,3 @@
+migrations/init db.sql
+migrations/add table `User`.sql
+migrations/add table `Cat`.sql
